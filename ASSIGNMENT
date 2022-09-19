@@ -1,0 +1,20 @@
+DIFFERENCE BETWEEN HTTP1.1 vs HTTP2?
+
+HTTP stands for Hyper Text Transfer Protocol
+WWW is about communication between web clients and servers
+Communication between client computers and web servers is done by sending HTTP Requests and receiving HTTP Responses
+
+HTTP1.1:
+It uses works on the textual format.
+It uses requests resource Inlining for use getting multiple pages.
+It compresses data by itself.
+
+HTTP2:
+It works on the binary protocol.
+It uses PUSH frame by server that collects all multiple pages.
+It uses HPACK for data compression
+
+ABOUT OBJECTS AND ITS INTERNAL REPRESENTATION?
+
+objects are used in javascript because of its easy accesibility than arrays.In array if we want to access element we need index but in 
+case of objects we need key and its easy way of accessing element.
